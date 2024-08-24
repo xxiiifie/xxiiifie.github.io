@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://xxiiifie.github.io/sitemap/sitemap.txt
